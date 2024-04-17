@@ -303,8 +303,8 @@ module.exports = {
 
 - use `<h2>` - `<h4>` for headings (`h1` only if we are really sure it won't be repeated)
 - use `<p>` for paragraphs
-- use `<em>`, not `<i>`
-- use `<strong>`, not `<b>`
+- use `<em>` if semantics matter, `<i>` otherwise
+- use `<strong>` if semantics matter, `<b>` otherwise
 - use `ul` and `ol` for lists
 - use `<span class="text-sm">`, not `<small>`
 - Link buttons (no VML, except for Outlook rounded corners)
