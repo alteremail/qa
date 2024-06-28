@@ -2,6 +2,34 @@
 
 Every client project needs to go through this QA checklist.
 
+## Layouts
+
+Some layout and columns combinations that can be used.
+
+Use [gridcalculator.dk](http://gridcalculator.dk) to check any other custom layouts.
+
+| Container | 2 Columns | 3 Column | 4 Columns | All Even |
+|-----------|-----------|----------|-----------|----------|
+| 720       | 360       | 240      | 180       | Yes      |
+| 708       | 354       | 236      | 177       |          |
+| 696       | 348       | 232      | 174       | Yes      |
+| 684       | 342       | 228      | 171       |          |
+| 672       | 336       | 224      | 168       | Yes      |
+| 660       | 330       | 220      | 165       |          |
+| 648       | 324       | 216      | 162       | Yes      |
+| 636       | 318       | 212      | 159       |          |
+| 624       | 312       | 208      | 156       | Yes      |
+| 612       | 306       | 204      | 153       |          |
+| 600       | 300       | 200      | 150       | Yes      |
+| 588       | 294       | 196      | 147       |          |
+| 576       | 288       | 192      | 144       | Yes      |
+| 564       | 282       | 188      | 141       |          |
+| 552       | 276       | 184      | 138       | Yes      |
+| 540       | 270       | 180      | 135       |          |
+| 528       | 264       | 176      | 132       | Yes      |
+| 516       | 258       | 172      | 129       |          |
+| 504       | 252       | 168      | 126       | Yes      |
+
 ## Code
 
 ### Attributes order 
